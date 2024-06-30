@@ -13,6 +13,10 @@
     color: white;
 }
 
+.header-bottom {
+    display: flex;
+}
+
 .top-right {
     display: flex;
     justify-content: space-between;
