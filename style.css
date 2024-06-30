@@ -34,6 +34,11 @@
     height: 100px;
 }
 
+.body-content-container {
+    display: flex;
+}
+
+
 .quote {
     background-color: #e5e7eb;
     height: 100px;
