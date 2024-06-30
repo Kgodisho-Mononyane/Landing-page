@@ -3,53 +3,61 @@
     margin: auto;
     /*border: 2px solid red;*/
 }
+/*Put all the selectors in the correct order according to their
+appearance in the HTML*/
+
+/*HEADER*/
 .header {
     background-color: #1F2937;
     height: 200px;
 }
-
 .header-top {
     display: flex;
     justify-content: space-between;
     color: white;
     padding: 0px;
 }
-
-.header-bottom {
-    display: flex;
-}
-
 .top-left {
     margin-left: 8px;
 }
-
 .top-right {
     display: flex;
     justify-content: space-between;
     gap: 8px;
     margin-right: 10px;
 }
+.header-bottom {
+    display: flex;
+}
+.bottom-right{
 
+}
+
+
+
+/*BODY*/
 .body {
     height: auto;
     margin-bottom: 15px;
 }
-
 .body-content-container {
     display: flex;
 }
 
 
+
+/*QUOTE*/
 .quote {
     background-color: #e5e7eb;
     height: 100px;
 }
 
+
+/*CALLTOACTION*/
 .calltoaction {
     height: 200px;
     align-items: center;
 }
-
 .button-container {
     height: 100px;
     width: 500px;
@@ -58,15 +66,12 @@
     display: flex;
     align-items: center;
 }
-
 .button-heading {
     color: white;
 }
-
 .button-text {
     color: white;
 }
-
 .sign-up-button{
     background-color: #3882f6;
     border-color: white;
@@ -86,6 +91,8 @@
     width: 70px;
 }
 
+
+/*FOOTER*/
 .footer {
     background-color: #1f2937;
     color: white;
