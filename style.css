@@ -37,6 +37,7 @@
     width: 400px;
     background-color: #3882f6;
     border-radius: 5px;
+    display: flex;
 }
 
 .footer {
