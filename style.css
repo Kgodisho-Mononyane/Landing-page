@@ -31,7 +31,8 @@
 }
 
 .body {
-    height: 100px;
+    height: auto;
+    margin-bottom: 15px;
 }
 
 .body-content-container {
