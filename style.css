@@ -1,10 +1,10 @@
 * {
     font-family: "Times New Roman", Times, serif;
-    margin: 0;
+    margin: auto;
 }
 .header {
     background-color: #1F2937;
-    height: 100px;
+    height: 200px;
 }
 
 .header-top {
@@ -30,6 +30,12 @@
 
 .calltoaction {
     height: 100px;
+}
+
+.button-container {
+    height: 50px;
+    width: 100px;
+    background-color: #3882f6;
 }
 
 .footer {
