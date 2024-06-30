@@ -33,9 +33,10 @@
 }
 
 .button-container {
-    height: 50px;
-    width: 100px;
+    height: 70px;
+    width: 400px;
     background-color: #3882f6;
+    border-radius: 5px;
 }
 
 .footer {
