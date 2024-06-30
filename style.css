@@ -10,6 +10,13 @@
 .header-top {
     display: flex;
     justify-content: space-between;
+    color: white;
+}
+
+.top-right {
+    display: flex;
+    justify-content: space-between;
+    margin: 2px;
 }
 
 .body {
