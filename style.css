@@ -1,6 +1,7 @@
 * {
     font-family: "Times New Roman", Times, serif;
     margin: auto;
+    /*border: 2px solid red;*/
 }
 .header {
     background-color: #1F2937;
@@ -11,15 +12,22 @@
     display: flex;
     justify-content: space-between;
     color: white;
+    padding: 0px;
 }
 
 .header-bottom {
     display: flex;
 }
 
+.top-left {
+    margin-left: 8px;
+}
+
 .top-right {
     display: flex;
     justify-content: space-between;
+    gap: 8px;
+    margin-right: 10px;
 }
 
 .body {
@@ -33,6 +41,7 @@
 
 .calltoaction {
     height: 200px;
+    align-items: center;
 }
 
 .button-container {
@@ -41,6 +50,7 @@
     background-color: #3882f6;
     border-radius: 5px;
     display: flex;
+    align-items: center;
 }
 
 .button-heading {
@@ -56,15 +66,19 @@
     border-color: white;
     border-radius: 5px;
     color: white;
+    height: 30px;
+    width: 70px;
 }
 
 .footer {
     background-color: #1f2937;
     color: white;
     height: 100px;
-    text-align: center;
+    
+    /*align-items: center;*/
 }
 
 .footer-text {
+    text-align: center;
     /*font-family:;*/
 }
