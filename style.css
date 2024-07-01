@@ -32,6 +32,12 @@ appearance in the HTML*/
 .bottom-left {
 
 }
+.heading {
+    color: white;
+}
+.sub-heading {
+    color: white;
+}
 .bottom-right{
 
 }
