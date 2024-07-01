@@ -48,11 +48,14 @@ appearance in the HTML*/
 
 /*BODY*/
 .body {
-    height: 300px;
+    height: auto;
     margin-bottom: 15px;
 }
 .body-heading {
+    color: #1F2937;
     text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 .body-content-container {
     display: flex;
