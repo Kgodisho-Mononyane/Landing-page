@@ -50,10 +50,12 @@ appearance in the HTML*/
     display: flex;
 }
 .body-content {
-    
+
 }
 .body-image {
+    border-radius: 10px;
 }
+
 
 
 /*QUOTE*/
