@@ -48,7 +48,7 @@ appearance in the HTML*/
 
 /*BODY*/
 .body {
-    height: auto;
+    height: 300px;
     margin-bottom: 15px;
 }
 .body-heading {
@@ -79,6 +79,7 @@ appearance in the HTML*/
 .calltoaction {
     height: 200px;
     align-items: center;
+    display: flex;
 }
 .button-container {
     height: 100px;
@@ -87,6 +88,7 @@ appearance in the HTML*/
     border-radius: 5px;
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 .button-container-left {
 
