@@ -29,6 +29,9 @@ appearance in the HTML*/
 .header-bottom {
     display: flex;
 }
+.bottom-left {
+
+}
 .bottom-right{
 
 }
@@ -40,16 +43,26 @@ appearance in the HTML*/
     height: auto;
     margin-bottom: 15px;
 }
+.body-heading {
+
+}
 .body-content-container {
     display: flex;
 }
-
+.body-content {
+    
+}
+.body-image {
+}
 
 
 /*QUOTE*/
 .quote {
     background-color: #e5e7eb;
     height: 100px;
+}
+.quote-text {
+
 }
 
 
@@ -66,11 +79,17 @@ appearance in the HTML*/
     display: flex;
     align-items: center;
 }
+.button-container-left {
+
+}
 .button-heading {
     color: white;
 }
 .button-text {
     color: white;
+}
+.button-container-right {
+
 }
 .sign-up-button{
     background-color: #3882f6;
@@ -80,7 +99,6 @@ appearance in the HTML*/
     height: 30px;
     width: 70px;
 }
-
 .sign-up-button1{
     background-color: #3882f6;
     margin-top: 5px;
@@ -100,7 +118,6 @@ appearance in the HTML*/
     
     /*align-items: center;*/
 }
-
 .footer-text {
     text-align: center;
     /*font-family:;*/
